@@ -1,1 +1,1 @@
-# Training repository for working with PostgreSQL
+# Training repository for working with SQL
